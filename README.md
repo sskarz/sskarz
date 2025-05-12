@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my startup Aery<br>👯 I’m looking to collaborate on cool AI software apps<br>🌱 I’m currently learning local AI model integration on phones 📱
+🔭 Working on my startup Aery<br>👯 Looking to collaborate on cool AI software apps<br>🌱 Learning local AI model integration on phones 📱
 
 
 ## 🌐 Socials:
